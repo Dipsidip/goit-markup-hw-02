@@ -1,3 +1,51 @@
-.name {
-    background-color:#2E2F42 ;
+
+li {
+    list-style-type: none;
+}
+
+.logo {
+color: #4D5AE5;
+font-family: ;
+}
+.logos {
+    color:#2E2F42;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+.button {
+    background-color: #4D5AE5;
+}
+.topline {
+    color: #2E2F42;
+    font-weight: bolder;
+    text-decoration: none;
+    width: 48px;
+    height: 24px;
+    size: 16px;
+    line-height: 24px;
+}
+.portline {
+    color: #4D5AE5;
+    text-decoration: none;
+    width: 116px;
+    height: 48px;
+    background: #E7E9FC;
+    font-weight: bolder;
+}
+.listinfo {
+   color: #434455;
+   text-decoration: none;
+   font-style: normal;
+}
+.top {
+    text-align: center;
+}
+.teamlist {
+    text-align: center;
+}
+footer {
+    background-color: #2E2F42;
+    color: #E7E9FC;
 }
