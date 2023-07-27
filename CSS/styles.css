@@ -4,6 +4,9 @@ body:root {
     font-size: 16px;
     background-color: #FFFFFF;
 }
+li {
+    list-style: none
+}
 .logo {
     color: #4D5AE5;
     text-transform: uppercase;
