@@ -38,7 +38,6 @@ body {
     font-family: Raleway, sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
@@ -219,6 +218,7 @@ footer {
     letter-spacing: 0.03em;
 }
 .end {
+    font-family: Roboto, sans-serif;
     line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
