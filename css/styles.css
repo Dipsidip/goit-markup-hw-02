@@ -46,10 +46,10 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.menu:hover {
+.header-nav-menu:hover {
 color: #404bbf;
 }
-.menu:focus {
+.header-nav-menu:focus {
 color: #404bbf;
 }
 
@@ -63,10 +63,10 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.adress-list:hover {
+.adress-link:hover {
     color: #404bbf;
 }
-.adress-list:focus {
+.adress-link:focus {
     color: #404bbf;
 }
 .hero {
