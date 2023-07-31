@@ -39,7 +39,7 @@ body {
     color: #2E2F42;
 }
 
-.menu {
+.header-nav-menu {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -54,10 +54,10 @@ color: #404bbf;
 }
 
 
-.adress-item {
+.adress-list {
     font-style: normal;
 }
-.adress-list {
+.adress-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -108,7 +108,7 @@ color: #404bbf;
     color: #2e2f42;
 }
 
-.subject {
+.goals-subject {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -132,7 +132,7 @@ color: #404bbf;
     color: #2e2f42;
 }
 
-.inner {
+.team-title {
     background-color: #F4F4FD;
 }
 
