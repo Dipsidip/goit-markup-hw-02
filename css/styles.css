@@ -70,7 +70,10 @@ color: #404bbf;
     color: #404bbf;
 }
 .hero {
-    background-color: #2E2F42;
+    background-color: #2E2F42;  
+}
+
+.hero-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
